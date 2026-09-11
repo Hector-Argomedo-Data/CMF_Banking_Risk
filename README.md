@@ -8,8 +8,8 @@ Este repositorio contiene el código fuente, scripts de automatización y bitác
 
 ### 📂 Estructura del Repositorio
 
-* 📜 **[`scripts/`](./scripts/)**: Contiene el script de Python (`etl_excel_to_csv.py`) para la extracción y limpieza masiva de 48 archivos Excel a CSV.
 * 📝 **[`docs/`](./docs/)**: Contiene la bitácora técnica de desarrollo (`data_journal.md`) bajo metodología P.D.A.R.
+* 📜 **[`scripts/`](./scripts/)**: Contiene el script de Python (`etl_excel_to_csv.py`) para la extracción y limpieza masiva de 48 archivos Excel a CSV.
 * 📊 **[`sql/`](./sql/)**: Consultas y Vistas consolidadas en Google BigQuery para la serie histórica de 12 meses.
 
 ---
