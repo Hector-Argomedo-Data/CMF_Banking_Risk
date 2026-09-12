@@ -14,4 +14,4 @@ Este repositorio contiene el código fuente, scripts de automatización y bitác
 
 ---
 
-> **Nota:** Este proyecto analiza la cartera de crédito, morosidad y provisiones de la banca chilena utilizando Python, Google BigQuery y Power BI.
+> **Nota:** Este proyecto analiza la cartera de crédito, morosidad y provisiones de la banca chilena utilizando Google Sheets, Python, BigQuery SQL y Power BI.
